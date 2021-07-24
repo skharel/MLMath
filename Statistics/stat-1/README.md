@@ -31,4 +31,4 @@ MIT also has lecture available that covers similar material:
 
 # Section notes
 
-## 3: Discrete Random Variable
+## 3: [Discrete Random Variable](./3)
