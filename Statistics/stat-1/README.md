@@ -14,7 +14,7 @@ This course notes is based on `Stat - 110` from Harvard.
 
   Introduction to Probability by Joe Blitzstein and Jessica Hwang;
 
-## Similar course
+# Similar course
 
 - MIT also has lecture available that covers similar material:
 
