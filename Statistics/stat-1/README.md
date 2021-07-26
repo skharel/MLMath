@@ -27,3 +27,5 @@ This course notes is based on `Stat - 110` from Harvard.
 ## [3. Discrete Random Variable](./3)
 
 ## [4. Expectation](./4)
+
+## [5. Continuous Random Variable](./5)
