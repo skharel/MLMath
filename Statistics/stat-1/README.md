@@ -18,11 +18,12 @@ This course notes is based on `Stat - 110` from Harvard.
 
 - MIT also has lecture available that covers similar material:
 
-    https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/
+  https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/
 
 - [Lecture in youtube](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
-
 
 # Section notes
 
 ## [3. Discrete Random Variable](./3)
+
+## [4. Expectation](./4)
