@@ -29,3 +29,9 @@ This course notes is based on `Stat - 110` from Harvard.
 ## [4. Expectation](./4)
 
 ## [5. Continuous Random Variable](./5)
+
+# Additional Useful links for stats
+
+- [Stat Quest](https://www.youtube.com/user/joshstarmer)
+- [Brandon Foltz](https://youtube.com/c/BrandonFoltz)
+- [Dr. Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
