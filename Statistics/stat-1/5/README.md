@@ -7,3 +7,5 @@
 ![5.4](notes/5.4.jpg)
 
 ![5.5](notes/5.5.jpg)
+
+![5.6](notes/5.6.jpg)
