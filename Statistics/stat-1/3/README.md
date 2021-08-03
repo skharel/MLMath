@@ -7,3 +7,8 @@
 ![3.4](notes/3.4.jpg)
 
 ![3.5](notes/3.5.jpg)
+
+## Some useful videos:
+
+- [PMF](https://youtu.be/ORQqo8PUkgY)
+- [CDF](https://youtu.be/pLMGYiuxskw)
