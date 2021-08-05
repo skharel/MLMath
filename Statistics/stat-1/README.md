@@ -30,6 +30,8 @@ This course notes is based on `Stat - 110` from Harvard.
 
 ## [5. Continuous Random Variable](./5)
 
+## [7. Joint Distributions](./7)
+
 # Additional Useful links for stats
 
 - [Stat Quest](https://www.youtube.com/user/joshstarmer)
