@@ -1,3 +1,11 @@
+![7.1](notes/7.1.jpg)
+
+![7.2](notes/7.2.jpg)
+
+![7.3](notes/7.3.jpg)
+
+![7.4](notes/7.4.jpg)
+
 ## Youtube link
 
 - Covariance & correlation
