@@ -12,8 +12,13 @@
 
 ![7.5](notes/7.5.jpg)
 
-## Youtube link
+![7.6](notes/7.6.jpg)
+![Fig 7.9](notes/Fig-7.9.png)
 
-- Covariance & correlation
+![7.7](notes/7.7.jpg)
+
+![7.8](notes/7.8.jpg)
+
+- Youtube link for covariance & correlation (worth watching)
   - [Part-1](https://www.youtube.com/watch?v=qtaqvPAeEJY)
   - [Part-2](https://www.youtube.com/watch?v=xZ_z8KWkhXE)
