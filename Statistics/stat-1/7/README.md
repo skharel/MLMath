@@ -10,6 +10,8 @@
 
 ![7.4](notes/7.4.jpg)
 
+![7.5](notes/7.5.jpg)
+
 ## Youtube link
 
 - Covariance & correlation
