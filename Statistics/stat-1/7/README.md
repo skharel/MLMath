@@ -6,6 +6,7 @@
 ![Fig 7.2](notes/Fig-7.2.png)
 
 ![7.3](notes/7.3.jpg)
+![Fig 7.3](notes/Fig-7.3.png)
 
 ![7.4](notes/7.4.jpg)
 
