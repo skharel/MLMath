@@ -24,6 +24,8 @@ This course notes is based on `Stat - 110` from Harvard.
 
 # Section notes
 
+## [2. Conditional Probability](./2)
+
 ## [3. Discrete Random Variable](./3)
 
 ## [4. Expectation](./4)
