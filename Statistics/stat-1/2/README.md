@@ -3,3 +3,5 @@
 ![2.2](notes/2.2.jpg)
 
 ![2.3](notes/2.3.jpg)
+
+![2.4](notes/2.4.jpg)
