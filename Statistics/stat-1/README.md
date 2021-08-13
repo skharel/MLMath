@@ -12,7 +12,7 @@ This course notes is based on `Stat - 110` from Harvard.
 
 - [Book Used](http://probabilitybook.net)
 
-  Introduction to Probability by Joe Blitzstein and Jessica Hwang;
+  Introduction to Probability by Joe Blitzstein and Jessica Hwang - 3rd edition
 
 # Similar course
 
