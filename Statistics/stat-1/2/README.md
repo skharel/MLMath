@@ -11,3 +11,7 @@
 ![2.6](notes/2.6.jpg)
 
 ![2.7](notes/2.7.jpg)
+
+![2.8](notes/2.8.jpg)
+
+![2.9](notes/2.9.jpg)
