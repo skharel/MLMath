@@ -15,3 +15,7 @@
 
 3. List of useful math course compilation:
    http://web2.uwindsor.ca/math/hlynka/statcourses.html
+
+# ML Course by Tom Mitchell
+
+http://www.cs.cmu.edu/~tom/10701_sp11/
