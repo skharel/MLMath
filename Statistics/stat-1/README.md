@@ -61,3 +61,7 @@ This course notes is based on `Stat - 110` from Harvard.
 - [Stat Quest](https://www.youtube.com/user/joshstarmer)
 - [Brandon Foltz](https://youtube.com/c/BrandonFoltz)
 - [Dr. Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
+
+# Test your confidence:
+
+Udacity has [Intro to statistics](https://classroom.udacity.com/courses/st101) course which is quiz based learning. Try going through the topics that you have seen here and evaluate yourself!
