@@ -6,6 +6,10 @@
 
 ## [Statistics](./Statistics)
 
+- Visual introduction to Stat: This is very nice website built to visualize and learn. This might be a very good accompanying resources while going through the stat course.
+
+  https://seeing-theory.brown.edu/index.html
+
 1. [Stat - 1:](./Statistics/stat-1) <br>
    This is based on STAT-110 [course offered by Harvard](https://projects.iq.harvard.edu/stat110/home). <br> <br>
    MIT has [similar course](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/)
