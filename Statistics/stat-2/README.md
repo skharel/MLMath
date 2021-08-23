@@ -2,7 +2,11 @@
 
 https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/
 
-# ADDITIONAL coursed to consider
+# ADDITIONAL course to consider
+
+## A more readable book for bayesian inference
+
+https://www.probabilitycourse.com/
 
 ## From the book - An introduction to statistical learning (ISL)
 
@@ -31,3 +35,7 @@ https://www.reddit.com/r/statistics/comments/p87g5h/q_books_on_bayesian_statisti
 - links picked from the the thread:
   - [Tamara Broderick talk and is very good at giving high-level intuitions](https://www.youtube.com/watch?v=Moo4-KR5qNg&t=690s)
 - read that comment thread
+
+# another youtube to see:
+
+https://www.youtube.com/channel/UCjknLK_siVSCY14qfDu-f-w/playlists
