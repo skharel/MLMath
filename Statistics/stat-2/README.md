@@ -6,6 +6,10 @@ Throwing all the links I can find as I try to digest Bayesian stat in this repo;
 
 https://youtu.be/0F0QoMCSKJ4
 
+- another one looks really good:
+
+https://youtu.be/3OJEae7Qb_o
+
 # MIT Course website
 
 https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/
