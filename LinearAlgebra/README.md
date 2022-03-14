@@ -12,4 +12,5 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
 
 # My notes
 
-1. The Geometry of Linear Equations
+1. [The Geometry of Linear Equations](1/README.md)
+2. [Elimination with Matrices](2/README.md)
