@@ -39,3 +39,9 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
    - `Subspaces`
    - Column space intro
 6. [Column Space and Nullspace](6/README.md)
+   - Column space
+   - Solvability of `Ax = b`
+   - Null Space
+   - For A = m x n
+     - C(A) is subspace of R<sup>m</sup>
+     - N(A) is subspace of R<sup>n</sup>
