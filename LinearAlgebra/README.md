@@ -46,8 +46,17 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
      - C(A) is subspace of R<sup>m</sup>
      - N(A) is subspace of R<sup>n</sup>
 7. [Solving Ax = 0: Pivot Variables, Special Solutions](7/README.md)
-   - Computing all Null spaces of a matrix
-   - Pivot variables & rank of a matrix
+   - Computing all Null spaces of a matrix: x<sub>null</sub>
+   - Pivot variables & Rank of a matrix
    - Free Variables
    - Special solutions
    - True size of a linear system
+8. [Solving Ax = b: Row Reduced Form R](8/README.md)
+   - Solve for non zero b: x<sub>particular</sub>
+   - Find complete solution to Ax = b
+     - x<sub>complete</sub> = x<sub>particular</sub> + x<sub>null</sub>
+   - Solvability condition on b
+   - Rank:
+     - Full Column Rank
+     - Full Row Rank
+     - Full column rank & full row rank: Full Rank
