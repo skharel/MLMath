@@ -30,7 +30,7 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
    - A = LU
    - Cost of matrix elimination
    - Transpose
-5. [Transposes, Permutations, Symmetric Matrices and Vector Spaces](5/README.MD)
+5. [Transposes, Permutations, Symmetric Matrices and Vector Spaces](5/README.md)
    - Permutation matrix and properties
    - Symmetric Matrix
    - Non-symmetric to symmetric
@@ -45,3 +45,4 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
    - For A = m x n
      - C(A) is subspace of R<sup>m</sup>
      - N(A) is subspace of R<sup>n</sup>
+7. [Solving Ax = 0: Pivot Variables, Special Solutions](7/README.md)
