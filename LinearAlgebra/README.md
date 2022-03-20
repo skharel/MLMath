@@ -60,3 +60,11 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
      - Full Column Rank
      - Full Row Rank
      - Full column rank & full row rank: Full Rank
+9. [Independence, Spans, Basis and Dimension](9/README.md)
+   - Independence
+   - Spans
+   - Basis (for a vector space)
+     - Standard Basis => think I
+     - Basis for C(A)
+     - Basis for N(A)
+   - Dimension
