@@ -68,3 +68,7 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
      - Basis for C(A)
      - Basis for N(A)
    - Dimension
+10. [Four Fundamental subspaces](10/README.md)
+    - from A and A<sup>T</sup>
+    - Column space and null space of A
+    - Row space and left null space of A<sup>T</sup>
