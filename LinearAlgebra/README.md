@@ -72,3 +72,22 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
     - from A and A<sup>T</sup>
     - Column space and null space of A
     - Row space and left null space of A<sup>T</sup>
+11. Matrix Spaces; Rank 1; Small world Graphs
+    - Skipped notes writing for this
+    - [lecture provided notes link](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/MIT18_06SCF11_Ses1.11sum.pdf)
+12. Graphs, Networks, Incidence Matrices
+    - Skipped notes writing for this too!
+    - [lecture provided notes link](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/MIT18_06SCF11_Ses1.12sum.pdf)
+13. [Orthogonal Vectors and subspaces](13/README.md)
+    - The 90<sup>o</sup> chapter: vectors perpendicular to each other
+    - Orthogonal subspaces
+    - Part-II of Fundamental Theroem of linear algebra
+    - Orthogonal Complements
+      - X = x<sub>r</sub> + x<sub>n</sub>
+      - `What does Ax really do?`: Big picture again
+    - Singular Value Decomposition importance of pseudoinverse
+    - Valuable facts about bases
+    - When is square matrix A<sup>T</sup>. A invertible?
+      - N(A<sup>T</sup>A) = N(A)
+      - rank (A) = rank (A<sup>T</sup>. A)
+      - A<sup>T</sup> A is invertible exactly when A has independent columns
