@@ -98,3 +98,11 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
       - Fit a straight line: Linear regression (without outliers)
       - Minimize squared error => least squares
     - Proof about A<sup>T</sup> A invertability
+16. [Orthogonal Matrices and Gram-Schmidt](16/README.md)
+    - Orthonormal vectors
+      - Orthogonal (13) to Orthonormal
+    - Orthogonal Matrix: `Q`
+    - Gram-Schmidt: A to Q
+    - Factorization: `A = QR`
+      - R is upper triangular (opposite of L)
+      - R = Q<sup>T</sup>A
