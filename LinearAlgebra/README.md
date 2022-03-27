@@ -91,3 +91,10 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
       - N(A<sup>T</sup>A) = N(A)
       - rank (A) = rank (A<sup>T</sup>. A)
       - A<sup>T</sup> A is invertible exactly when A has independent columns
+14. [Projections](14/README.md)
+    - coming soon
+15. [Projection Matrices and Least Squares](15/README.md)
+    - Application of projection
+      - Fit a straight line: Linear regression (without outliers)
+      - Minimize squared error => least squares
+    - Proof about A<sup>T</sup> A invertability
