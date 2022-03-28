@@ -33,10 +33,15 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
    - Transpose
 5. [Transposes, Permutations, Symmetric Matrices and Vector Spaces](5/README.md)
    - Permutation matrix and properties
-   - Symmetric Matrix
-   - Non-symmetric to symmetric
-   - `Vector spaces`
-     - spaces meaning
+     - `P P<sup>T</sup>` = I = `P<sup>T</sup> P`
+     - `P<sup>-1</sup> = P<sup>T</sup>`
+   - Symmetric Matrix: `S<sup>T</sup> = S`
+     - inverse of symmetric is also symmetric
+   - Non-symmetric (R) to symmetric
+     - `R<sup>T</sup> R` is always symmetric
+   - `Vector spaces: R<sup>n</sup>`
+     - R<sup>n</sup> means every vector has n entries
+     - spaces means think all vectors not just 1 or 2
    - `Subspaces`
    - Column space intro
 6. [Column Space and Nullspace](6/README.md)
