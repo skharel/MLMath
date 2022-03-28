@@ -122,3 +122,9 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
       - R = Q<sup>T</sup>A
 17. [Determinants](17/README.md)
     - Properties of Determinants
+18. Determinant Formulas and Cofactors
+    - Skipped this
+    - [lecture notes](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/)
+19. Cramer's Rule, Inverse Matrix and Volume
+    - Skipped this
+    - [lecture notes](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/)
