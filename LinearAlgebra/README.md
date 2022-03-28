@@ -10,6 +10,14 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
 
 - Every lecture videos has accompanying lecture Note
 
+## Other Useful links
+
+1. [3 Blue 1 Brown - Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
+2. [Immersive linear algebra](http://immersivemath.com/ila/tableofcontents.html)
+   - Interactive content on Linear Algebra
+3. [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index2.html)
+   - This linear algebra content with visualization by GATech
+
 # My notes
 
 1. [The Geometry of Linear Equations](1/README.md)
@@ -112,3 +120,5 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
     - Factorization: `A = QR`
       - R is upper triangular (opposite of L)
       - R = Q<sup>T</sup>A
+17. [Determinants](17/README.md)
+    - Properties of Determinants
