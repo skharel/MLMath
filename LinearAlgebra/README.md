@@ -20,8 +20,9 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
    - Upper Triangular form (U)
    - Singular, Non-Singular
    - Laws for matrix
-     - Associative law [A(BC) = (AB)C] is fundamental law
-   - Elimination Matrix
+     - Associative law: A(BC) = (AB)C is fundamental law
+   - Elimination Matrix: `EA=U`
+     - do bunch of eliminations and get from A to U
 3. [Multiplication and Inverse Matrices](3/README.md)
    - Inverses
    - Gauss-Jordan elimination for finding inverse
