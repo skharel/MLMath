@@ -23,3 +23,8 @@
 # ML Course by Tom Mitchell
 
 http://www.cs.cmu.edu/~tom/10701_sp11/
+
+## Todo
+
+1. Numerical Linear Algebra
+   - https://github.com/fastai/numerical-linear-algebra
