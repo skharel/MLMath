@@ -128,3 +128,12 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
 19. Cramer's Rule, Inverse Matrix and Volume
     - Skipped this
     - [lecture notes](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/)
+20. [Eigenvalues and Eigenvectors](20/README.md)
+    - For when time comes into play: dynamically evolving systems
+    - Key idea: What is the thing that changes with time?
+    - Eigen Vectors and Eigen Values
+      - Ax = λx
+      - Eigen value equation: `det (A - λI) = 0`
+      - Trace = sum of main diagonals = sum of eigen values
+      - n x n matrix has n eigen values
+    - Triangular Matrices - eigen values are entry on the diagonal
