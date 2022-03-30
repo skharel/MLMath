@@ -132,8 +132,24 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
     - For when time comes into play: dynamically evolving systems
     - Key idea: What is the thing that changes with time?
     - Eigen Vectors and Eigen Values
-      - Ax = λx
+      - `Ax = λx`
       - Eigen value equation: `det (A - λI) = 0`
       - Trace = sum of main diagonals = sum of eigen values
       - n x n matrix has n eigen values
     - Triangular Matrices - eigen values are entry on the diagonal
+21. [Diagonalization and powers of A](21/README.md)
+    - `AS = SΛ`
+      - S is eigen vector matrices of A (and is square matrix)
+      - Λ is the diagonal eigen value matrix
+    - Diagonalization: `S<sup>-1</sup>AS = Λ`
+    - Factorization of A: `A = SΛS<sup>-1</sup>`
+    - Powers of A: `A<sup>K</sup>x = λ<sup>K</sup>x`
+    - `Skipped notes on dynamic systems`
+      - difference equation
+      - Fibonacci sequence
+22. Differential Equations and exp(At)
+    - Skipped this
+    - [lecture notes](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/)
+23. Markov Matrices; Fourier Series
+    - skipped this
+    - [lecture notes](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series/)
