@@ -153,3 +153,16 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
 23. Markov Matrices; Fourier Series
     - skipped this
     - [lecture notes](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series/)
+24. [Symmetric Matrices and Positive Definiteness](24/README.md)
+    - Symmetric Matrices: `A = A<sup>T</sup>`
+      - Props:
+        - 1. has real eigen values
+        - 2. Eigen vectors can be chosen to be orthonormal
+    - Factorization of symmetric matrix: `A = QΛQ<sup>T</sup>`
+      - This is `Spectral Theorem` - combination of pure eigen values and eigen vectors
+    - \# number of positive pivots = \# number of positive eigen values
+    - Also from earlier lecturs:
+      - product of pivots = determinant = product of eigen values
+    - All symmetric matrices are diagonalizable
+    - Special case:
+      - Symmetric matrices has all positive eigen values if all pivots are positive: `Positive Definite Matrices`
