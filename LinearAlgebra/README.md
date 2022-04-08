@@ -91,7 +91,7 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
     - [lecture provided notes link](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/MIT18_06SCF11_Ses1.11sum.pdf)
 12. Graphs, Networks, Incidence Matrices
     - Skipped notes writing for this too!
-    - [lecture provided notes link](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/MIT18_06SCF11_Ses1.12sum.pdf)
+    - [lecture provided notes link](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses1-12sum/)
 13. [Orthogonal Vectors and subspaces](13/README.md)
     - The 90<sup>o</sup> chapter: vectors perpendicular to each other
     - Orthogonal subspaces
@@ -124,10 +124,10 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
     - Properties of Determinants
 18. Determinant Formulas and Cofactors
     - Skipped this
-    - [lecture notes](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/)
+    - [lecture notes](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses2-6sum/)
 19. Cramer's Rule, Inverse Matrix and Volume
     - Skipped this
-    - [lecture notes](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/)
+    - [lecture notes](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses2-7sum/)
 20. [Eigenvalues and Eigenvectors](20/README.md)
     - For when time comes into play: dynamically evolving systems
     - Key idea: What is the thing that changes with time?
@@ -149,10 +149,10 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
       - Fibonacci sequence
 22. Differential Equations and exp(At)
     - Skipped this
-    - [lecture notes](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/)
+    - [lecture notes](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses2-10sum/)
 23. Markov Matrices; Fourier Series
     - skipped this
-    - [lecture notes](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series/)
+    - [lecture notes](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses2-11sum/)
 24. [Symmetric Matrices and Positive Definiteness](24/README.md)
     - Symmetric Matrices: `A = A<sup>T</sup>`
       - Props:
@@ -166,3 +166,6 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
     - All symmetric matrices are diagonalizable
     - Special case:
       - Symmetric matrices has all positive eigen values if all pivots are positive: `Positive Definite Matrices`
+25. COMPLEX MATRICES; FAST FOURIER TRANSFORM (FFT)
+    - Skipped this
+    - [lecture notes](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses3-2sum/)
