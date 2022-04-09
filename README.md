@@ -2,6 +2,8 @@
 
 ## [Linear Algebra](./LinearAlgebra)
 
+- But [why/how](https://youtu.be/LlKAna21fLE) is linear algebra important?
+
 ## [Calculus](./Calculus)
 
 ## [Statistics](./Statistics)
