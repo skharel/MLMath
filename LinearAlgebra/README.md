@@ -169,3 +169,15 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
 25. COMPLEX MATRICES; FAST FOURIER TRANSFORM (FFT)
     - Skipped this
     - [lecture notes](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses3-2sum/)
+26. [Positive Definite Matrices and Minima](26/README.md)
+    - Positive definite matrix
+    - `x<sup>T</sup>Ax` is positive except when x is 0
+    - Sum of positive definite matrix, results in positive definite matrix
+    - Right on the border line? `Positive Semidefinite matrix`
+    - lecture notes:
+      - tests for minimum
+      - `Hessian` matrix
+27. [Similar Matrices](27/README.md)
+    - Similar matrices means same eigen values
+    - lecture notes:
+      - see rest on lecture notes
