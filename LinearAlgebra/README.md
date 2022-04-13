@@ -41,13 +41,13 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
    - Transpose
 5. [Transposes, Permutations, Symmetric Matrices and Vector Spaces](5/README.md)
    - Permutation matrix and properties
-     - `P P<sup>T</sup>` = I = `P<sup>T</sup> P`
-     - `P<sup>-1</sup> = P<sup>T</sup>`
-   - Symmetric Matrix: `S<sup>T</sup> = S`
+     - P P<sup>T</sup> = I = P<sup>T</sup> P
+     - P<sup>-1</sup> = P<sup>T</sup>
+   - Symmetric Matrix: S<sup>T</sup> = S
      - inverse of symmetric is also symmetric
    - Non-symmetric (R) to symmetric
-     - `R<sup>T</sup> R` is always symmetric
-   - `Vector spaces: R<sup>n</sup>`
+     - R<sup>T</sup> R is always symmetric
+   - `Vector spaces`: R<sup>n</sup>
      - R<sup>n</sup> means every vector has n entries
      - spaces means think all vectors not just 1 or 2
    - `Subspaces`
@@ -141,9 +141,9 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
     - `AS = SΛ`
       - S is eigen vector matrices of A (and is square matrix)
       - Λ is the diagonal eigen value matrix
-    - Diagonalization: `S<sup>-1</sup>AS = Λ`
-    - Factorization of A: `A = SΛS<sup>-1</sup>`
-    - Powers of A: `A<sup>K</sup>x = λ<sup>K</sup>x`
+    - Diagonalization: S<sup>-1</sup>AS = Λ
+    - Factorization of A: A = SΛS<sup>-1</sup>
+    - Powers of A: A<sup>K</sup>x = λ<sup>K</sup>x
     - `Skipped notes on dynamic systems`
       - difference equation
       - Fibonacci sequence
@@ -154,11 +154,11 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
     - skipped this
     - [lecture notes](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses2-11sum/)
 24. [Symmetric Matrices and Positive Definiteness](24/README.md)
-    - Symmetric Matrices: `A = A<sup>T</sup>`
+    - Symmetric Matrices: A = A<sup>T</sup>
       - Props:
         - 1. has real eigen values
         - 2. Eigen vectors can be chosen to be orthonormal
-    - Factorization of symmetric matrix: `A = QΛQ<sup>T</sup>`
+    - Factorization of symmetric matrix: A = QΛQ<sup>T</sup>
       - This is `Spectral Theorem` - combination of pure eigen values and eigen vectors
     - \# number of positive pivots = \# number of positive eigen values
     - Also from earlier lecturs:
@@ -171,7 +171,7 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
     - [lecture notes](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses3-2sum/)
 26. [Positive Definite Matrices and Minima](26/README.md)
     - Positive definite matrix
-    - `x<sup>T</sup>Ax` is positive except when x is 0
+    - x<sup>T</sup>Ax is positive except when x is 0
     - Sum of positive definite matrix, results in positive definite matrix
     - Right on the border line? `Positive Semidefinite matrix`
     - lecture notes:
