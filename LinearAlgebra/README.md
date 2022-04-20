@@ -106,7 +106,15 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
       - rank (A) = rank (A<sup>T</sup>. A)
       - A<sup>T</sup> A is invertible exactly when A has independent columns
 14. [Projections](14/README.md)
-    - coming soon
+    - Why project?
+    - Projecting onto a line and Projection matrix
+    - Higher dimension projection
+    - Horizontal and vertical projection
+    - Key equation : A<sup>T</sup>Ax = A<sup>T</sup>
+    - Projection matrix: P = A (A<sup>T</sup>A)<sup>-1</sup>A<sup>T</sup>
+    - Key property about projection matrix:
+      - P<sup>2</sup> = P
+      - P<sup>T</sup> = P
 15. [Projection Matrices and Least Squares](15/README.md)
     - Application of projection
       - Fit a straight line: Linear regression (without outliers)
