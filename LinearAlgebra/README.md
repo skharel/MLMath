@@ -196,3 +196,7 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
     - U comes from AA<sup>T</sup>
     - V comes from A<sup>T</sup>A
     - Principal Component
+
+## What next?
+
+[MATRIX METHODS IN DATA ANALYSIS, SIGNAL PROCESSING, AND MACHINE LEARNING](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
