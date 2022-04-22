@@ -189,3 +189,10 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-an
     - Similar matrices means same eigen values
     - lecture notes:
       - see rest on lecture notes
+28. [Singular Vector Decomposition: SVD](28/README.md)
+    - A = UΣV<sup>T</sup>
+      - U and V are singular vectors
+      - Σ is singular values
+    - U comes from AA<sup>T</sup>
+    - V comes from A<sup>T</sup>A
+    - Principal Component
