@@ -16,3 +16,8 @@ https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-proces
    - A = CR
    - Rank Theroem: column rank = row rank
    - Sampling columns from large matrix
+2. [MULTIPLYING AND FACTORING MATRICES](2/README.md)
+   - Inner and outer product
+   - Inner product as matrix multiplication
+   - Rank 1 matrices as building blocks
+   - `Why outer product is essential in Data Science?`
