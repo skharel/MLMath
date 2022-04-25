@@ -37,3 +37,15 @@ https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-proces
      - Graph is bowl opening upwards
      - Optimization problems in Deep Learning tries to gets to E = 0
      - Connects Linear Algebra to Calculus
+6. [SINGULAR VALUE DECOMPOSITION (SVD)](6/README.md)
+   - Can be done for all Matrices
+   - A = UΣV<sup>T</sup>
+     - U and V are singular vectors
+     - Σ is singular values
+     - U is left singular value
+     - V is right singular value
+   - A is sum of r pieces of rank 1
+   - `Why is SVD important for Data Science?`
+     - Hint of Eckart-Young (PCA)
+   - Geometry of SVD:
+     - rotate, stretch and rotate
