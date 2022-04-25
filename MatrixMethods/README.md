@@ -21,3 +21,8 @@ https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-proces
    - Inner product as matrix multiplication
    - Rank 1 matrices as building blocks
    - `Why outer product is essential in Data Science?`
+3. [ORTHONORMAL COLUMNS IN Q GIVE Q’Q = I](3/README.md)
+   - Orthogonal & orthonormal
+   - Qx => length of vectors does not change in output
+   - Standard basis uses orthonormal vectors
+   - Hadamard matrices
