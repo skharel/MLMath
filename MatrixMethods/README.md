@@ -26,3 +26,6 @@ https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-proces
    - Qx => length of vectors does not change in output
    - Standard basis uses orthonormal vectors
    - Hadamard matrices
+4. [EIGENVALUES AND EIGENVECTORS](4/README.md)
+   - Ax = λx and A<sup>n</sup>x = λ<sup>n</sup>x
+   - Factorization A = XΛX<sup>-1</sup>
