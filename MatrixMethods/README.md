@@ -29,3 +29,11 @@ https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-proces
 4. [EIGENVALUES AND EIGENVECTORS](4/README.md)
    - Ax = λx and A<sup>n</sup>x = λ<sup>n</sup>x
    - Factorization A = XΛX<sup>-1</sup>
+5. [POSITIVE DEFINITE AND SEMIDEFINITE MATRICES](5/README.md)
+   - Symmetric matrices: S = S<sup>T</sup>
+     - all eigen values are real
+     - all eigen vectors can be chosen to be orthogonal
+   - x<sup>T</sup>Sx > 0 (Energy > 0)
+     - Graph is bowl opening upwards
+     - Optimization problems in Deep Learning tries to gets to E = 0
+     - Connects Linear Algebra to Calculus
