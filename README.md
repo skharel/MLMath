@@ -32,5 +32,17 @@ http://www.cs.cmu.edu/~tom/10701_sp11/
 
 ## Todo
 
-1. Numerical Linear Algebra
-   - https://github.com/fastai/numerical-linear-algebra
+- Numerical Linear Algebra
+
+  - https://github.com/fastai/numerical-linear-algebra
+
+- Probabilistic Graphics Models:
+
+  - https://cs.stanford.edu/~ermon/cs228/index.html
+
+- Discrete stochastic processes:
+
+  - https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/
+
+- Time series analysis:
+  - https://www.youtube.com/watch?v=kSMec4HTxVE&list=PLtiTxpFJ4k6TPiD61nCsPnFMR5TOvMHXA
