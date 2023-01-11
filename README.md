@@ -2,7 +2,6 @@
 
 ## [Linear Algebra](./LinearAlgebra)
 
-- But [why/how](https://youtu.be/LlKAna21fLE) is linear algebra important?
 
 ## [MATRIX METHODS IN DATA ANALYSIS, SIGNAL PROCESSING, AND MACHINE LEARNING](./MatrixMethods/)
 
